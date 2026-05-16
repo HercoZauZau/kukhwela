@@ -8,7 +8,7 @@ O objectivo deste repositório é documentar a evolução prática em **Data Sci
 
 ## 📌 ToDo
 
-* [x] **Projecto #1** - Análise Exploratória de Dados*
+* [x] **Projecto #1** - Análise Exploratória de Dados
 * [ ] **Projecto #2** - Machine Learning Supervisionado (Regressão)
 * [ ] **Projecto #3** - Machine Learning Supervisionado (Classificação)
 * [ ] **Projecto #4** - Machine Learning Não Supervisionado
@@ -26,7 +26,7 @@ O objectivo deste repositório é documentar a evolução prática em **Data Sci
 
 </br>
 
-* [ ] **Diminuir a Cafeína**
+* [ ] **Diminuir Café** 
 
 ---
 
