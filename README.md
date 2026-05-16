@@ -1,1 +1,47 @@
-<img src="assets/capa.png" alt="logo" width="100%" height="100%">
+# IBM Machine Learning Engineering
+
+Repositório com os projectos desenvolvidos ao longo do curso [**IBM Machine Learning Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-machine-learning).
+
+O objectivo deste repositório é documentar a evolução prática em **Data Science**, **Machine Learning**, **Análise Exploratória de Dados**, **Modelagem Preditiva** e **MLOps**.
+
+---
+
+## 📌 ToDo
+
+* [x] **Projecto #1 - Análise Exploratória de Dados** 
+* [ ] **Projecto #2 - Machine Learning Supervisionado (Regressão)**
+* [ ] **Projecto #3 - Machine Learning Supervisionado (Classificação)**
+* [ ] **Projecto #4 - Machine Learning Não Supervisionado**
+* [ ] **Projecto #5 - Deep Learning e Aprendizado por Reforço**
+* [ ] **Projecto #6 - Sistemas de Recomendação**
+
+</br>
+
+* [ ] **Artigo #1 - Impacto da Variação dos Preços dos Combustíveis no Preço de Alimentos em Moçambique**
+* [ ] **Artigo #2 - *por definir***
+* [ ] **Artigo #3 - *por definir***
+* [ ] **Artigo #4 - *por definir***
+* [ ] **Artigo #5 - *por definir***
+* [ ] **Artigo #6 - *por definir***
+
+</br>
+
+* [ ] **Diminuir a Cafeína**
+
+</br>
+
+## ✅ Projectos Concluídos
+
+#### Projecto I - Impacto da Variação dos Preços dos Combustíveis no Preço de Alimentos em Moçambique
+
+
+- **Tendências Temporais** → Análise de preços ao longo do tempo.
+- **Correlação Combustível-Milho** → Relação entre variáveis.
+- **Períodos Voláteis** → Identificação de picos e quedas.
+- **Padrões de Variação** → Aumentos de combustível vs. oscilações.
+- **Tendências Anuais/Mensais** → Sazonalidade dos preços.
+- **Evidências Quantitativas** → Maior volatilidade após reajustes.
+
+</br>
+
+---
